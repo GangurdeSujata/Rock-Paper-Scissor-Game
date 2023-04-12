@@ -1,0 +1,166 @@
+
+@media only screen and (max-width: 1250px) {
+    #images{
+        display: flex;
+        justify-content: space-around;
+        width: 50vw;
+        margin: 10px auto;
+    }
+    #images > img {
+        height: 150px;
+    }
+    #result{
+        border: 2px solid white;
+        border-radius: 50px;
+        width: 100vw;
+        font-size: 28px;
+        margin: 20px auto;
+        padding: 20px;
+        font-weight: bold;
+        color: white;
+    }
+  }
+
+@media only screen and (max-width: 900px) {
+    #images{
+        display: flex;
+        justify-content: space-around;
+        width: 80vw;
+        margin: 10px auto;
+    }
+    #images > img {
+        height: 150px;
+    }
+    #result{
+        border: 2px solid white;
+        border-radius: 50px;
+        width: 100vw;
+        font-size: 26px;
+
+        margin: 20px auto;
+        padding: 20px;
+        font-weight: bold;
+        color: white;
+    }
+  }
+
+@media only screen and (max-width: 625px) {
+    #images{
+        display: flex;
+        justify-content: space-around;
+        width: 80vw;
+        margin: 10px auto;
+    }
+    #images > img {
+        height: 150px;
+    }
+    .main_header>h1{
+        /* color: green; */
+        font-size: 25px;
+        /* background: red; */
+    }
+    #names{
+        /* border: 2px solid red; */
+        width: 100vw;
+        margin: 20px auto;
+        font-size: 20px;
+        /* padding: 10px; */
+       }
+       .rps_nmaes{
+        /* padding :0px 17px 0px 61px; */
+        font-size: 24px;
+        color: rgb(5, 10, 10);
+        font-family: 'Baloo 2', cursive;
+    }
+    #result{
+        border: 2px solid white;
+        border-radius: 50px;
+        width: 100vw;
+        font-size: 22px;
+
+        margin: 20px auto;
+        padding: 20px;
+        font-weight: bold;
+        color: white;
+    }
+  }
+
+@media only screen and (max-width: 575px) {
+    #images{
+        display: flex;
+        justify-content: space-around;
+        width: 100vw;
+        height: 100px;
+        margin: 10px auto;
+    }
+    #images > img {
+        height: 120px;
+    }
+    header>h2{
+        font-size: 22px;
+    }
+    .main_header>h1{
+        /* color: green; */
+        font-size: 22px;
+        /* background: red; */
+    }
+    #names{
+        /* border: 2px solid red; */
+        width: 100vw;
+        margin: 20px auto;
+        font-size: 20px;
+        /* padding: 10px; */
+       }
+       .rps_nmaes{
+        /* padding :0px 17px 0px 61px; */
+        font-size: 24px;
+        color: rgb(5, 10, 10);
+        font-family: 'Baloo 2', cursive;
+    }
+  }
+
+@media only screen and (max-width: 470px) {
+    #images{
+        display: flex;
+        justify-content: space-around;
+        width: 100vw;
+        height: 90px;
+        margin: 10px auto;
+    }
+    #images > img {
+        height: 90px;
+        width:  90px;
+    }
+    header>h2{
+        font-size: 22px;
+    }
+    .main_header>h1{
+        /* color: green; */
+        font-size: 22px;
+        /* background: red; */
+    }
+    #names{
+        /* border: 2px solid red; */
+        width: 100vw;
+        margin: 20px auto;
+        font-size: 20px;
+        /* padding: 10px; */
+       }
+       .rps_nmaes{
+        /* padding :0px 17px 0px 61px; */
+        font-size: 24px;
+        color: rgb(5, 10, 10);
+        font-family: 'Baloo 2', cursive;
+    }
+    #result{
+        border: 2px solid white;
+        border-radius: 50px;
+        width: 100vw;
+        font-size: 18px;
+
+        margin: 10px auto;
+        /* padding: 20px; */
+        font-weight: bold;
+        color: white;
+    }
+  }
